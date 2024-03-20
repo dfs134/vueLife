@@ -1,0 +1,139 @@
+@charset "utf-8";
+
+#app {
+  min-width: 1610px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+*:focus {
+  outline: none;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0 !important;
+  font-style: initial;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-black {
+  background-color: #1b1b1b;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.bd-top {
+  border-top: 1px solid #ccc;
+}
+
+.bd-bottom {
+  border-bottom: 1px solid #ccc;
+}
+
+.mg-center {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.input-sign-up {
+  height: 20px;
+}
+
+.height-100 {
+  height: 100% !important;
+}
+
+.py-20 {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.products a img {
+  width: 100%;
+}
+
+.display-row {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.display-column {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+}
+
+.font-10 {
+  font-size: 10px !important;
+}
+
+.font-12 {
+  font-size: 12px !important;
+}
+
+.font-14 {
+  font-size: 14px !important;
+}
+
+.font-16 {
+  font-size: 16px !important;
+}
+
+.font-18 {
+  font-size: 18px !important;
+}
+
+.font-20 {
+  font-size: 20px !important;
+}
+
+.bg-333 {
+  background-color: #333;
+}
+
+.bg-666 {
+  background-color: #666;
+}
+
+.bg-999 {
+  background-color: #999;
+}
+
+.bg-aaa {
+  background-color: #aaa;
+}
+
+.bg-ccc {
+  background-color: #ccc;
+}
+
+.bg-eee {
+  background-color: #eee;
+}

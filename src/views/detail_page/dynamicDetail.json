@@ -1,0 +1,491 @@
+[
+  {
+    "id": 1,
+    "price": 14400,
+    "img": [
+      {
+        "names": 1,
+        "url": "/img/price_img/slide/slide1.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/slide/slide11.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/slide/slide111.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/slide/slide1111.jpg"
+      }
+    ],
+    "pageImg": [
+      {
+        "names": 1,
+        "url": "/img/price_img/detail/notice_store.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/detail/page_02.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/detail/page_03.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/detail/page_04.gif"
+      },
+      {
+        "names": 5,
+        "url": "/img/price_img/detail/page_05.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_06.jpg"
+      },
+      {
+        "names": 7,
+        "url": "/img/price_img/detail/page_07.gif"
+      },
+      {
+        "names": 8,
+        "url": "/img/price_img/detail/page_08.gif"
+      },
+      {
+        "names": 9,
+        "url": "/img/price_img/detail/page_09.gif"
+      },
+      {
+        "names": 10,
+        "url": "/img/price_img/detail/page_10.gif"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_11.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_12.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_13.jpg"
+      }
+    ],
+    "mainText": "기분전환 알파플러스",
+    "mainText2": "단숨에 V라인",
+    "subText": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요먹고 안먹고 차이를 느껴보세요",
+    "columns": [
+      {
+        "name": "desc",
+        "required": true,
+        "align": "left",
+        "field": "row => row.name",
+        "style": "border:none; width:30%; font-weight: bold; padding-left:0; font-size:16px;"
+      },
+      {
+        "name": "calories",
+        "align": "center",
+        "label": "Calories",
+        "field": "calories",
+        "sortable": false,
+        "style": "border:none; text-align:left; word-break: break-word; white-space: normal; padding-left:0; font-size:16px; vertical-align: top;"
+      }
+    ],
+    "rows": [
+      {
+        "name": "소비자가",
+        "calories": "42,800원"
+      },
+      {
+        "name": "판매가",
+        "calories": "14,400원"
+      },
+      {
+        "name": "상품정보",
+        "calories": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요 먹고 안먹고 차이를 느껴보세요"
+      },
+      {
+        "name": "원료정보",
+        "calories": "비트2000mg, 호박1,000mg, 모링가1,000mg, 차전자피1300mg, 녹각, 강황"
+      },
+      {
+        "name": "배송비",
+        "calories": "3,000원 (30,000원 이상 구매 시 무료)"
+      },
+      {
+        "name": "적립금",
+        "calories": "365 Point (1%)"
+      }
+    ],
+    "selectBox": [
+      {
+        "text": "[15%]기분전환 알파플러스 20포"
+      },
+      {
+        "text": "[25%]기분전환 알파플러스 20포 2박스(40포)"
+      },
+      {
+        "text": "[40%]기분전환 알파플러스 20포 5박스(100포)"
+      }
+    ],
+    "selectItem": [
+      {
+        "price": 14400,
+        "quantity": 1,
+        "text": "기분전환 알파 20포"
+      },
+      {
+        "price": 30000,
+        "quantity": 1,
+        "text": "기분전환 알파 40포"
+      },
+      {
+        "price": 60000,
+        "quantity": 1,
+        "text": "기분전환 알파 100포"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "price": 14400,
+    "img": [
+      {
+        "names": 1,
+        "url": "/img/price_img/slide/slide2.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/slide/slide22.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/slide/slide222.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/slide/slide2222.jpg"
+      }
+    ],
+    "pageImg": [
+      {
+        "names": 1,
+        "url": "/img/price_img/detail/notice_store.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/detail/page_02.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/detail/page_03.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/detail/page_04.gif"
+      },
+      {
+        "names": 5,
+        "url": "/img/price_img/detail/page_05.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_06.jpg"
+      },
+      {
+        "names": 7,
+        "url": "/img/price_img/detail/page_07.gif"
+      },
+      {
+        "names": 8,
+        "url": "/img/price_img/detail/page_08.gif"
+      },
+      {
+        "names": 9,
+        "url": "/img/price_img/detail/page_09.gif"
+      },
+      {
+        "names": 10,
+        "url": "/img/price_img/detail/page_10.gif"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_11.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_12.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_13.jpg"
+      }
+    ],
+    "mainText": "[웰컴키트] 기분전환 알파플러스 7개입",
+    "subText": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요먹고 안먹고 차이를 느껴보세요",
+    "columns": [
+      {
+        "name": "desc",
+        "required": true,
+        "align": "left",
+        "field": "row => row.name",
+        "style": "border:none; width:30%; font-weight: bold; padding-left:0; font-size:16px"
+      },
+      {
+        "name": "calories",
+        "align": "center",
+        "label": "Calories",
+        "field": "calories",
+        "sortable": false,
+        "style": "border:none; text-align:left; word-break: break-word; white-space: normal; padding-left:0; font-size:16px; vertical-align: top;"
+      }
+    ],
+    "rows": [
+      {
+        "name": "판매가",
+        "calories": "14,400원"
+      },
+      {
+        "name": "상품정보",
+        "calories": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요 먹고 안먹고 차이를 느껴보세요"
+      },
+      {
+        "name": "원료정보",
+        "calories": "비트2000mg, 호박1,000mg, 모링가1,000mg, 차전자피1300mg, 녹각, 강황"
+      },
+      {
+        "name": "배송비",
+        "calories": "3,000원 (30,000원 이상 구매 시 무료)"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "price": 14400,
+    "img": [
+      {
+        "names": 1,
+        "url": "/img/price_img/slide/slide3.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/slide/slide33.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/slide/slide333.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/slide/slide3333.jpg"
+      }
+    ],
+    "pageImg": [
+      {
+        "names": 1,
+        "url": "/img/price_img/detail/notice_store.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/detail/page_02.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/detail/page_03.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/detail/page_04.gif"
+      },
+      {
+        "names": 5,
+        "url": "/img/price_img/detail/page_05.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_06.jpg"
+      },
+      {
+        "names": 7,
+        "url": "/img/price_img/detail/page_07.gif"
+      },
+      {
+        "names": 8,
+        "url": "/img/price_img/detail/page_08.gif"
+      },
+      {
+        "names": 9,
+        "url": "/img/price_img/detail/page_09.gif"
+      },
+      {
+        "names": 10,
+        "url": "/img/price_img/detail/page_10.gif"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_11.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_12.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_13.jpg"
+      }
+    ],
+    "mainText": "[웰컴키트] 기분전환 알파플러스 7개입",
+    "subText": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요먹고 안먹고 차이를 느껴보세요",
+    "columns": [
+      {
+        "name": "desc",
+        "required": true,
+        "align": "left",
+        "field": "row => row.name",
+        "style": "border:none; width:30%; font-weight: bold; padding-left:0; font-size:16px"
+      },
+      {
+        "name": "calories",
+        "align": "center",
+        "label": "Calories",
+        "field": "calories",
+        "sortable": false,
+        "style": "border:none; text-align:left; word-break: break-word; white-space: normal; padding-left:0; font-size:16px; vertical-align: top;"
+      }
+    ],
+    "rows": [
+      {
+        "name": "판매가",
+        "calories": "14,400원"
+      },
+      {
+        "name": "상품정보",
+        "calories": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요 먹고 안먹고 차이를 느껴보세요"
+      },
+      {
+        "name": "원료정보",
+        "calories": "비트2000mg, 호박1,000mg, 모링가1,000mg, 차전자피1300mg, 녹각, 강황"
+      },
+      {
+        "name": "배송비",
+        "calories": "3,000원 (30,000원 이상 구매 시 무료)"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "price": 14400,
+    "img": [
+      {
+        "names": 1,
+        "url": "/img/price_img/slide/slide4.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/slide/slide44.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/slide/slide444.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/slide/slide4444.jpg"
+      }
+    ],
+    "pageImg": [
+      {
+        "names": 1,
+        "url": "/img/price_img/detail/notice_store.jpg"
+      },
+      {
+        "names": 2,
+        "url": "/img/price_img/detail/page_02.jpg"
+      },
+      {
+        "names": 3,
+        "url": "/img/price_img/detail/page_03.jpg"
+      },
+      {
+        "names": 4,
+        "url": "/img/price_img/detail/page_04.gif"
+      },
+      {
+        "names": 5,
+        "url": "/img/price_img/detail/page_05.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_06.jpg"
+      },
+      {
+        "names": 7,
+        "url": "/img/price_img/detail/page_07.gif"
+      },
+      {
+        "names": 8,
+        "url": "/img/price_img/detail/page_08.gif"
+      },
+      {
+        "names": 9,
+        "url": "/img/price_img/detail/page_09.gif"
+      },
+      {
+        "names": 10,
+        "url": "/img/price_img/detail/page_10.gif"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_11.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_12.jpg"
+      },
+      {
+        "names": 6,
+        "url": "/img/price_img/detail/page_13.jpg"
+      }
+    ],
+    "mainText": "[웰컴키트] 기분전환 알파플러스 7개입",
+    "subText": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요먹고 안먹고 차이를 느껴보세요",
+    "columns": [
+      {
+        "name": "desc",
+        "required": true,
+        "align": "left",
+        "field": "row => row.name",
+        "style": "border:none; width:30%; font-weight: bold; padding-left:0; font-size:16px"
+      },
+      {
+        "name": "calories",
+        "align": "center",
+        "label": "Calories",
+        "field": "calories",
+        "sortable": false,
+        "style": "border:none; text-align:left; word-break: break-word; white-space: normal; padding-left:0; font-size:16px; vertical-align: top;"
+      }
+    ],
+    "rows": [
+      {
+        "name": "판매가",
+        "calories": "14,400원"
+      },
+      {
+        "name": "상품정보",
+        "calories": "먹을수록 예뻐지는 기분전환 7일 꾸준히 드셔보시면 알아요 먹고 안먹고 차이를 느껴보세요"
+      },
+      {
+        "name": "원료정보",
+        "calories": "비트2000mg, 호박1,000mg, 모링가1,000mg, 차전자피1300mg, 녹각, 강황"
+      },
+      {
+        "name": "배송비",
+        "calories": "3,000원 (30,000원 이상 구매 시 무료)"
+      }
+    ]
+  }
+]
